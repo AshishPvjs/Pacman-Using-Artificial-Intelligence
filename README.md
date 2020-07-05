@@ -1,6 +1,6 @@
 # Pacman
 Pacman using Artificial Intelligence
-CSE 411 Artificial Intelligence
+CS 411 Artificial Intelligence
 Spring 2019
 
 In this project, several techniques of Artificial Intelligence such as Searching, Adversarial Behaviour, Deep Reinforcement Learning, Neural Network etc are implemented to help the pacman agent to maximize its expected utility.
